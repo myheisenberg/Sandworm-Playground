@@ -8,7 +8,7 @@ local LocalPlayer = Players.LocalPlayer
 local SERVICE_SLUG = "zynexscripts"
 local SAVE_PATH = "Sandworm_Key.txt"
 local DEFAULT_DISCORD = "https://discord.gg/ehbX2MVbTw"
-local VSS_URL = "https://vault.pandauth.com/vss/8cee3da32456ea1e"
+local VSS_URL = "https://api.jnkie.com/api/v1/luascripts/public/38655406e24a5bc29f44ce050c1e2f6b6f110f448725c7b39331a5fe26b9123f/download"
 
 local PandaAuth = nil
 local pandaInitError = nil
