@@ -1,6 +1,6 @@
 -- ============================================================
---  Zynex Hub | Sandworm Playground Edition
+--  Zynex Hub | Official Universal Loader
 --  Developer: zynexdev
 -- ============================================================
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/myheisenberg/Sandworm-Playground/main/main.luau?t=" .. tostring(os.time())))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myheisenberg/Zynex-Hub/main/loader.luau"))()
